@@ -60,6 +60,9 @@ font-family: "Montserrat";
   margin: 5% 3% 5% 0;
 }
 
+.download-button2 {
+  margin: 3% 3%;
+}
 /* Title Image */
 
 .title-image {
@@ -127,7 +130,7 @@ padding: 100px;
 /* Footer Section */
 #cta {
   text-align: center;
-  padding: 7% 15%;
+  padding-top: 2%;
   background-color: #ff4c68;
   color: white;
 }
